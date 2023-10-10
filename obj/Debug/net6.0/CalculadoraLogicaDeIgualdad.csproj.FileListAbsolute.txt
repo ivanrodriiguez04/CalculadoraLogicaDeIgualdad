@@ -1,0 +1,14 @@
+C:\Users\csi22-irodhan\Desktop\Programacion\CalculadoraLogicaDeIgualdad\bin\Debug\net6.0\CalculadoraLogicaDeIgualdad.exe
+C:\Users\csi22-irodhan\Desktop\Programacion\CalculadoraLogicaDeIgualdad\bin\Debug\net6.0\CalculadoraLogicaDeIgualdad.deps.json
+C:\Users\csi22-irodhan\Desktop\Programacion\CalculadoraLogicaDeIgualdad\bin\Debug\net6.0\CalculadoraLogicaDeIgualdad.runtimeconfig.json
+C:\Users\csi22-irodhan\Desktop\Programacion\CalculadoraLogicaDeIgualdad\bin\Debug\net6.0\CalculadoraLogicaDeIgualdad.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\CalculadoraLogicaDeIgualdad\bin\Debug\net6.0\CalculadoraLogicaDeIgualdad.pdb
+C:\Users\csi22-irodhan\Desktop\Programacion\CalculadoraLogicaDeIgualdad\obj\Debug\net6.0\CalculadoraLogicaDeIgualdad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi22-irodhan\Desktop\Programacion\CalculadoraLogicaDeIgualdad\obj\Debug\net6.0\CalculadoraLogicaDeIgualdad.AssemblyInfoInputs.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\CalculadoraLogicaDeIgualdad\obj\Debug\net6.0\CalculadoraLogicaDeIgualdad.AssemblyInfo.cs
+C:\Users\csi22-irodhan\Desktop\Programacion\CalculadoraLogicaDeIgualdad\obj\Debug\net6.0\CalculadoraLogicaDeIgualdad.csproj.CoreCompileInputs.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\CalculadoraLogicaDeIgualdad\obj\Debug\net6.0\CalculadoraLogicaDeIgualdad.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\CalculadoraLogicaDeIgualdad\obj\Debug\net6.0\refint\CalculadoraLogicaDeIgualdad.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\CalculadoraLogicaDeIgualdad\obj\Debug\net6.0\CalculadoraLogicaDeIgualdad.pdb
+C:\Users\csi22-irodhan\Desktop\Programacion\CalculadoraLogicaDeIgualdad\obj\Debug\net6.0\CalculadoraLogicaDeIgualdad.genruntimeconfig.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\CalculadoraLogicaDeIgualdad\obj\Debug\net6.0\ref\CalculadoraLogicaDeIgualdad.dll
